@@ -2,4 +2,6 @@
 
 Examination of the Stroop Effect using statistics. 
 
-View the html file in your browser to read about my conclusions/process and the statistical methods used.
+To view the html notebook click [here.](https://mphillips55.github.io/Test_a_Perceptual_Phenomenon/Stroop_Effect.html)
+
+
